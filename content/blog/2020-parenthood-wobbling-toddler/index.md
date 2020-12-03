@@ -10,7 +10,8 @@ American Academy of Pediatrics (AAP) do not recommend walkers. Here's another do
 
 Contrary to popular belief...
 
-![](https://images.unsplash.com/photo-1599082779777-8edeb377cdef?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1650&q=80)
+<img src="https://images.unsplash.com/photo-1599082779777-8edeb377cdef?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1650&q=80" alt="walker" width="800"/>
+
 **Image Credit:** Unsplash - [Jimmy Conover](https://unsplash.com/@jimmy_conover)
 
 ## Walker is dangerous! 🤯
@@ -30,7 +31,9 @@ There is research to suggest that baby walkers eliminate the desire to walk. Bab
 
 I got the Katoji baby walker from a Japanese expat mom for $20. I just loved how chic it looks. Also, the fact that it is foldable and take up 0 space in a baby product filled home. #mariekondo
 
-![](https://images-na.ssl-images-amazon.com/images/I/71CNmtIVP-L._SL1500_.jpg)
+<img src="https://images-na.ssl-images-amazon.com/images/I/71CNmtIVP-L._SL1500_.jpg" alt="walker" width="400"/><p></p>
+
+
 **Image credit:** Amazon Katoji Baby Walker
 
 In the end, the super cute walker ended up more like a restraint for contained movement within the bedroom while I fold laundry. 🤷🏻‍♀️ It was more of a toy than an actual walker. 
