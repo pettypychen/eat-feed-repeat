@@ -5,7 +5,7 @@ module.exports = {
   url: 'https://eatfeedrepeat.com', // Domain of your site without prefix!
   prefix: '/',
   author: 'P Chen',
-  instagram: 'https://www.instagram.com/pettypychen/',
+  twitter: '@pettypychen',
   plugins: [
     {
       resolve: `gatsby-plugin-google-analytics`,
