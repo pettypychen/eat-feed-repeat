@@ -39,5 +39,5 @@ D.I.Y Indo Mie- Homemade noodles, slow-cooked duck egg, left-over duck leg confi
 
 Tomato & Cheese Tosti (Croque Monsieur)- Crotin de Batur, heirloom tomatoes, basil leaves.
 
-| --- | --- |
-| Specials of the DayFresh basil leaves with gin + hint of citrus. | Into the Wild​Kintamani strawberries, wild berry preserve, thyme, Tanqueray gin, Cointreau, Moscato d'Bali, smoldering herbs as aromatherapy. |
+Specials of the DayFresh basil leaves with gin + hint of citrus.  
+Into the Wild​Kintamani strawberries, wild berry preserve, thyme, Tanqueray gin, Cointreau, Moscato d'Bali, smoldering herbs as aromatherapy.
