@@ -53,3 +53,5 @@ Drying CD under the sun will stiffen the fabric, but baby L does not mind it. CD
 Well, there you have it. You now understand the science behind washing CD. Go out there and be eco-friendly. Switch to CD today. 
 
 BTW, don't feel guilty about using a disposable. I use it when we go out with baby L and there is nothing wrong with occasional convenience. 
+
+**Header image credit:** Unsplash - [Annie Spratt](https://unsplash.com/photos/5TfCI4nj6B4)

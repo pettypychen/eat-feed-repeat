@@ -5,12 +5,6 @@ thumbnail: ./katamama.jpg
 ---
 🇮🇩 **Seminyak, Bali, Indonesia**
 
-![Picture](https://hola-yolo.weebly.com/uploads/4/8/2/0/48209285/img-7282.jpg)
-
-![Picture](https://hola-yolo.weebly.com/uploads/4/8/2/0/48209285/untitled.png)
-
-Above image credit from Katamama official website [http://www.katamama.com/](http://www.katamama.com/ "http://www.katamama.com/")
-
 **Address:** Katamama Jl Petitenget No 51B, Seminyak, Bali, Indonesia 80361[  
 ](http://www.katamama.com/)
 **Telephone:** +62 (361) 302 9999
@@ -51,17 +45,9 @@ One of the benefits of traveling during the rainy season is a hotel upgrade. Kat
 
 ​The suite has an in-room bar designed by Akademi, complete with an ice well, a recipe book, and a full-sized selection of fine infused spirits, natural syrups, and aromatic bitters for you to experiment with various cocktails that Potato Head is famous for.
 
-![Picture](https://hola-yolo.weebly.com/uploads/4/8/2/0/48209285/img-2078_2.jpg)
-
 I think my jaw dropped when I saw how gorgeous the bathroom was. It is all open concept and it is connected to the main suite via a gigantic wooden door. It has his and her sinks and comes with a bathtub/rain bath as well. Lush greenery is right outside of the window. You may want to lower the blinds (automatic switch) if you feel too self-conscious.
 
 ## The Breakfast
-
-![Picture](https://hola-yolo.weebly.com/uploads/4/8/2/0/48209285/img-7280.jpg)
-
-![Picture](https://hola-yolo.weebly.com/uploads/4/8/2/0/48209285/img-2102.jpg)
-
-![Picture](https://hola-yolo.weebly.com/uploads/4/8/2/0/48209285/img-2140.jpg)
 
 * **Merah-** Strawberry, mangosteen, dragon fruit, hibiscus, grape, beetroot, watermelon, and apple slow pressed juice. Yes, you should try this!
 * **Pan Catalan-** Organic Heirloom tomatoes with Jamon Serrano on sourdough toast. This was also amazingly delicious. The sweetness of the tomatoes went well with the Jamon Serrano.
@@ -77,8 +63,6 @@ This is one of the best breakfasts I had at a hotel, on par with Trisara.
 Katamama has a small pool and a gym. Their staff also plans yoga by the pool, chocolate tasting, and other cultural activities for you to do at Katamama. My opinion is that I don't really care much for the pool when you have the ocean/beach! You see some people chilling on the side. Most guests would probably head to Potato Club for their infinity pool. One week before our stay, they sent their activities schedule to us and asked if we were keen to participate (considerate +++). The weather was not great when we were there, but it was the perfect weather for getting some zzz and just chillax.
 
 ## The Neighbourhood
-
-![Picture](https://hola-yolo.weebly.com/uploads/4/8/2/0/48209285/img-7279_1.jpg)
 
 ZOMG. There are 4 little shops along the boardwalk. When you walk out of the Katamama front door, there is Escalier which sells atas (fancy) beachwear. [1/15 coffee ](http://www.katamama.com/en/neighbourhood/one-fifteen-coffee)smells great but we never tried it as MoVida is providing our caffeine fix. [Alchemy ](http://alchemybali.com/)is the organic deli. They sell raw food (aka non-processed food). Everything looks delicious but we did not get a chance to try it too because we left the hotel too early (they open at 9AM) to roam around. [Canaan ](http://www.katamama.com/en/neighbourhood/canaan)sells home decor made via sustainable practices. Their items looked simple but are actually more of a understated sophistication.
 
@@ -96,8 +80,6 @@ ZOMG. There are 4 little shops along the boardwalk. When you walk out of the Kat
 
 ## The Potato Head Beach Club
 
-![Picture](https://hola-yolo.weebly.com/uploads/4/8/2/0/48209285/img-7281.jpg)
-
 It opens at 10AM, so the security guy was following me around while I was taking pictures before they were officially open. The draw is the infinity pool. This is the only way to access the beach. Our romantic walk on the beach at night ended in the pouring rain (chuckle). The alcohols are great. We ate at Kaum (more about it on the food blog). Not really my kind of crowd. A said it is more mainstream than hipster, I would agree with him.
 
 ![Picture](https://hola-yolo.weebly.com/uploads/4/8/2/0/48209285/img-2147.jpg?695)
@@ -106,4 +88,4 @@ Would I come back? YES!
 
 I love the boutique feel of the hotel. I love their management staff. I broke my contact lens on day 1 in Bali. The manager on duty that day helped me called Seminyak Mall to see if they sell contact lenses. They gave us some good luck bracelets when we departed (you know you need to be #blessed for calls).
 
-**Header image source:** [Katamama](https://potatohead.co/seminyak/sleep/potato-head-suites)
+**Header image credit:** [Katamama](https://potatohead.co/seminyak/sleep/potato-head-suites)

@@ -24,4 +24,4 @@ One of our beautifully crafted cocktails courtesy of the lovely folks downstairs
 ![Picture](./kaum4.jpg)
 Gado-Gado Kaum, the signature Kaum blanched vegetable salad with peanut sauce dressing served with garlic crackers, tofu, and free range eggs. 
 
-**Header image source:** [Kaum](https://kaum.com/)
+**Header image credit:** [Kaum](https://kaum.com/)

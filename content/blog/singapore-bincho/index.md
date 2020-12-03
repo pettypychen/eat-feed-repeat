@@ -46,6 +46,6 @@ Mochi ice-cream with fresh strawberries (above) = a good ending to our dinner.
 
 ​The reason why I was not really a fan was mainly the small portions. Don't get me wrong. The food was definitely great, I just not willing to pay the price to eat lots and lots grilled meat. It is best that you come with an empty stomach/ eat lots and lots of veggies post Bincho meat feast. If you are on paleo, this is the place for you.   
   
-**Afternote**: We went back to Bincho recently to try out their lunch menu. It was definitely worth the price. However, if you are not used to raw eggs don't temper with fate.
+**Afternote**: We went back to Bincho recently to try out their lunch menu. It was definitely worth the price. However, if you are not used to raw eggs don't tempt fate.
 
-**Header image source:** [Bincho](https://www.bincho.com.sg/hua-bee)
+**Header image credit:** [Bincho](https://www.bincho.com.sg/hua-bee)

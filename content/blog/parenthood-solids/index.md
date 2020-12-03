@@ -30,7 +30,6 @@ Baby L could hold up her head by month 4 and sat with support. She would finish 
 150ml ~5 oz;   
 180ml ~6 oz  
 
-
 ![](https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_800,h_800/http://www.comotomo.com/wp-content/uploads/2017/09/170615_BabysMilkChart-01.jpg)
 
 ## The Transition from Breastmilk to Cereal
@@ -81,3 +80,4 @@ We started by cutting down the 6 PM feed to 75ml and replacing it with 1 large t
 3. Cook white rice in chicken soup stock for 30 min or until the soup stock is fully absorbed. Add in the finely minced vegetable. ![](./simmer.jpg)
 4. Here's a delicious meal for the baby. Full of nutrition and blah blah blah. ![](./porridge.jpg)
 
+**Header image credit:** Unsplash - [Thought Catalog](https://unsplash.com/@thoughtcatalog)

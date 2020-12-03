@@ -51,3 +51,5 @@ I plan to dry the diapers in the sun most days with occasional dryer usage durin
 You aren’t saving that much just for a single child, but we do foresee having a second kid in the near future so cloth diaper will become cheaper for the second kid since we are only paying for the washing at that point.
 
 Another thing that I was considering is not buying any shorts for baby L given the messy situations of potential diaper blowouts. There is no shame for a baby to run around in a onesie with a cloth diaper.
+
+**Header image credit:** Unsplash - [Omid Armin](https://unsplash.com/photos/8Nppe0yLmn8)

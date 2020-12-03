@@ -35,3 +35,5 @@ No, the easiest way to get yourself out of the door with a baby in tow would be 
 If A and I were prepping to leave, I tend to take the longest to wash my face, brush my teeth, and get dress. Baby L takes about 5-10 minutes to get ready while she waits for me.
 
 **Take away point:** A perpetually packed bag is the best way of not missing out any item when you go out with a baby. Pack it once and pack it well. 
+
+**Header image credit:** Unsplash - [Olga Thelavart](https://unsplash.com/photos/RyrFRsVoe2Q)

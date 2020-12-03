@@ -34,4 +34,4 @@ Some people opt for a crib that can be folded down on one side so you can see yo
 * Share a bedroom with parents, but not the same sleeping surface, preferably until the baby turns 1 but at least for the first six months. Room-sharing decreases the risk of SIDS by as much as 50 percent.
 * Avoid baby's exposure to smoke, alcohol and illicit drugs.
 
-Title image credit: NHS UK
+**Header image credit:** Unsplash - [Minnie Zhou](https://unsplash.com/photos/0hiUWSi7jvs)

@@ -54,3 +54,5 @@ Besides catching poo, I have held her over the toilet bowl for 10 minutes, hopin
 Just when I thought I was good at catching her poo, she started to change her bowel opening schedule. In "me vs. daughter", the daughter has won this round. 
 
 The lesson I learned is that you can't toilet train a baby at 3 months old. 
+
+**Header image credit:** Unsplash - [Visuals](https://unsplash.com/photos/Pd2hIHv95FY)

@@ -36,3 +36,5 @@ The modern formula is higher in saturated fat, calories, sugar, and salt content
 ![](./milk-fact.png)
 
 So yeah, a quick history lesson on the significance of breastfeeding. Hope you like it!
+
+**Header image credit:** Unsplash - [Dainis Graveris](https://unsplash.com/photos/UABzL_f5pRU)

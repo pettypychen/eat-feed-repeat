@@ -5,7 +5,7 @@ thumbnail: ./viroth.jpg
 ---
 🇰🇭 **Siem Reap, Cambodia**
 
-**Address:** Street 23, Wat Bo Village, Siem Reap-Angkor, Cambodia
+**Address:** Street 23, Wat Bo Village, Siem Reap-Angkor, Cambodia  
 **Telephone:** +855 (0) 63 761 720
 
 ![Picture](https://hola-yolo.weebly.com/uploads/4/8/2/0/48209285/published/img-5520.jpg?1516602739)
@@ -36,4 +36,4 @@ I was craving hot noodles. What do you know, they have it for breakfast as well.
 
 Horror stories on online travel forums said DO NOT drink water in Cambodia. Well, my solution to that was to drink mango smoothies daily. Make sure you request no ice, although it did not really cause any GI issues for me when I drank them with ice. I guess I lived to tell the tale.
 
-**Header image source:** [Viroth Villa](https://www.viroth-villa.com/)
+**Header image credit:** [Viroth Villa](https://www.viroth-villa.com/)

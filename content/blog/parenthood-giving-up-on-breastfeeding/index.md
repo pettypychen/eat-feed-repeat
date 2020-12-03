@@ -33,4 +33,5 @@ My biggest enemy for sleep was pumping. The easy way out was to formula-feed my 
 ## The Road to Weaning
 
 My plan was to continue to torture myself for 6 months as per WHO's recommendation. But miracles do happen. It has been 4 months and I have stopped breastfeeding baby L. It was baby-led weaning. She decided she did not want breasts anymore. She wanted to hold her own bottles when she feeds. I am still pumping but I push back my nighttime pump to 5 AM. I guess you could say that things are going swimmingly, but we will see...
-"
+
+**Header image credit:** Unsplash - [Charles Deluvio](https://unsplash.com/photos/kxa2GSsEkqU)

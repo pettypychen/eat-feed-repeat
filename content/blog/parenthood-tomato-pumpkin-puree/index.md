@@ -12,3 +12,5 @@ This is one of my favourite baby food meal for baby L. It is so easy to make and
 4. Remove the puree from the blender and you are done!
 
 ![](./pumpkin-tomato-puree.png)
+
+**Header image credit:** Unsplash - [Tijana Drndarski](https://unsplash.com/photos/RrF5wBMo9Xo)

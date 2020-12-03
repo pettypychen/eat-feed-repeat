@@ -31,7 +31,7 @@ const AboutPage = ({ data }, location) => {
           <h3 id="dynamic-styles">I hustle</h3>
           <p>
             People don't see how much work I put into cleaning and feeding my kid
-            but the glamorised version of my Instagram. 
+            but the glamorized version of my Instagram. 
           </p>
           <p>
             I love to write because I have an opinion about everything. Writing can be
@@ -43,7 +43,7 @@ const AboutPage = ({ data }, location) => {
             <a href="https://hola-yolo.weebly.com/">
               my life before a kid
             </a>{" "}
-            for more ways to feel FOMO about the childfree life while I slowly reconciliate 
+            for more ways to feel FOMO about the childfree life while I slowly reconcile 
             my identity before the life of a bébé.
           </p>
         </div>

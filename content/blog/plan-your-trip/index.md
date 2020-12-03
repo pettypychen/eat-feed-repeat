@@ -32,3 +32,5 @@ For larger amounts, some people prefer to use their debit cards and withdraw mon
 ## **Do your homework.**
 
 My fiancé and I usually split the tasks up. He would surf TripAdvisor looking for things to do and places to eat. I like to look for local blogs. Not all the restaurants that tourists rave about on TripAdvisor are as good as they sound or look. The moral of the story is to cross-reference all reviews. We love eating and so we really go the extra mile to get the best things on our plates. I am a firm believer that not all expensive things taste good and not all cheap food tastes crappy. Do yo research!
+
+**Header image credit:** Unsplash - [Laura Chouette](https://images.unsplash.com/photo-1593697153695-7da77ba520aa)

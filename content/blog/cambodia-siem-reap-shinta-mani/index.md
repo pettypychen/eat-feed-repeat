@@ -19,7 +19,7 @@ Immediately after we came back from our temple hopping, we were offered cool tow
 
 ![Picture](https://hola-yolo.weebly.com/uploads/4/8/2/0/48209285/img-2034.jpg?693)
 
-The bed is queen size and on the firm side. (Right) Welcome champagne and fresh fruits. ​The flowers are all freshly folded and placed on the tables daily. How do I know? Because we saw some employees sitting in the corner folding flowers during our morning strolls. The attention to detail is impeccable. |
+The bed is queen size and on the firm side. Welcome champagne and fresh fruits. ​The flowers are all freshly folded and placed on the tables daily. How do I know? Because we saw some employees sitting in the corner folding flowers during our morning strolls. The attention to detail is impeccable.
 
 ![Picture](https://hola-yolo.weebly.com/uploads/4/8/2/0/48209285/img-2062.jpg?684)
 
@@ -33,4 +33,4 @@ The breakfast offered are mainly Western style, which were mediocre. A makes bet
 
 **Side story:** A got food poisoning on the last day. He said it was good that we were staying at a nice boutique hotel since he was in bed the whole day/using the toilet nonstop.
 
-**Header image source:** [Shinta Mani Club/Resort](www.shintamani.com/club)
+**Header image credit:** [Shinta Mani Club/Resort](www.shintamani.com/club)

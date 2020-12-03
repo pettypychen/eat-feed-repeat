@@ -124,6 +124,7 @@ I have been scaling a human being for the past 9 months and I was ready to drop 
     wrong direction for the first 30 min. The effort was wasted because the
     bebe’s head was not moving down. My gynae was worried that I had maternal
     exhaustion. Well, I was pretty tired… not fed…partially covered in blood and
+    
     some remnant of my own vomit. It was totally not glam. I vomited 3 more
     times during the last phase of my labour. My vomiting speed was so fast that
     the nurse could not get the vomit bag next to my mouth in time. Sorry… gotta
@@ -135,4 +136,5 @@ I have been scaling a human being for the past 9 months and I was ready to drop 
 
 **Finally, a bébé was born.**
 
+**Header image credit:** Unsplash - [Sincerely Media](https://unsplash.com/photos/9s7EOmv2HDA)
 

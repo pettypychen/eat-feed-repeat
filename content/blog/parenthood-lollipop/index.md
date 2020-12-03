@@ -51,3 +51,5 @@ Also, limit the area which the camera points at. Our camera points at the baby w
 Lollipop uploads the video clips to AWS. The [video clips are encrypted](https://www.lollipop.camera/help/article/13) during the transfer.  There is a privacy mode that you can turn on if you don't want any clip of your child to exist on any cloud. 
 
 They recommend that for added security, always make sure your Lollipop’s firmware is up-to-date and your wifi password is long and hard to guess. Lollipop's [privacy policy](https://www.lollipop.camera/privacy/).
+
+**Header image credit:** Unsplash - [Jeff Frenette](https://unsplash.com/photos/rnLsZUWRnLA)

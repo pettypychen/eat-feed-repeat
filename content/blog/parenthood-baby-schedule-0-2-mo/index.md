@@ -7,3 +7,5 @@ I remember not finding any detailed info on how to keep my baby alive for the fi
 ![](./wk1-4.png)
 
 ![](./wk5-8.png)
+
+**Header image credit:** Unsplash - [Morgan Housel](https://unsplash.com/photos/X_fbh4Utwk4)

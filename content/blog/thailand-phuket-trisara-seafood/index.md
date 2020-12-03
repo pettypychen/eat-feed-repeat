@@ -35,4 +35,4 @@ Tiger prawn on pink Himalayan salt rockFresh prawn, but be careful of the salt s
 
 Overall dinning experience was excellent. Like they say, you get what you pay for. Although if you are not living in the area, Trisara is a bit difficult to get to. It is hidden in the northern part of the Phuket \~45 minutes from Phuket town.
 
-**Header image source:** [Trisara](https://trisara.com/)
+**Header image credit:** [Trisara](https://trisara.com/)

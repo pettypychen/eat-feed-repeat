@@ -19,17 +19,11 @@ The sign board is hidden on the side of the road. We almost missed it!
 
 Don't judge the entrance. At first, I was like hmmm... is this really the restaurant that I saw online? Everything was dark. Remember, dresscode is smart casual. Don't come in here with your bikinis/or T-shirts, they won't let you in. There are lot of boutique shops in this area, if all else fails just buy a new dress/shirt. |  |
 
-![Picture](https://hola-yolo.weebly.com/uploads/4/8/2/0/48209285/img-7154.jpg)
-
 **Dragonfruit Martini:** Vodka, dragonfruit, passionfruit, vanilla, cranberry
 
 We decided to try out Balinese food on our first night in Bali. Merah Putih is a great place for date night and people-watch. We sat all the way towards the end of the restaurant so we could enjoy the view. Their menu consist of both modern and traditional interpretations of Balinese cuisine. The traditional Indo cuisine is a little bit on the heavier side (Rendang). I found myself enjoyed the modern dishes slightly more than the traditional dishes. We highly recommend the popia if they have it in the menu. The duck just melts in your mouth with the warm popia (pronounciation \[poh pian\]). Fried Boneless Duck ‘Popia’- Cucumber, palm hearts, colo colo, pancakes | Balinese Slipper Lobster- Sweet corn, tomato sambai, nasi jagungUdang & Babi Kalimantan- Tiger prawn & pork belly salad, vermicelli, tamarind |
 
-![Picture](https://hola-yolo.weebly.com/uploads/4/8/2/0/48209285/img-7168.jpg)
-
 **Padang Duck Breast:** ​Duck leg rendang, cassava, radicchio
-
-![Picture](https://hola-yolo.weebly.com/uploads/4/8/2/0/48209285/img-7169.jpg)
 
 **Chargrilled Wagyu Beef Top Sirloin:** ​Smoked onions, oxtail, potatoes, colo colo
 

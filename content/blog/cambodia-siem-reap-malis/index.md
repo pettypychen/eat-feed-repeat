@@ -16,10 +16,9 @@ Malis was a 5 min walk (10 min in the rain with no lights on the road) from our 
 
 Malis has fresh seafood ingredients cooked in Khmer style.   
   
-(Left) Kampot Crab Fried Rice- Kaffir-flavored rice cooked in fresh crab juice, wok fried to bring  
-out its colour, with Kampot crab meat.  
-​(Middle) Scallops with Green Peppercorns: Fresh pan-fried Sihanoukville scallops flavour-enhanced with Kampot green peppercorns picked straight from the vine and freshly crushed garlic.  
-(Right) Roasted Semi-Wild Chicken- Roasted local free-range chicken marinated with palm sugar, chilii, garlic and homemade seasoning oil. Served with a choice of sauces.
+* Kampot Crab Fried Rice- Kaffir-flavored rice cooked in fresh crab juice, wok fried to bring out its colour, with Kampot crab meat.  
+* Scallops with Green Peppercorns: Fresh pan-fried Sihanoukville scallops flavour-enhanced with Kampot green peppercorns picked straight from the vine and freshly crushed garlic.  
+* Roasted Semi-Wild Chicken- Roasted local free-range chicken marinated with palm sugar, chilii, garlic and homemade seasoning oil. Served with a choice of sauces.
 
 ![Picture](https://hola-yolo.weebly.com/uploads/4/8/2/0/48209285/img-1788_orig.jpg)
 

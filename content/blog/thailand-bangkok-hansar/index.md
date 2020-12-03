@@ -55,4 +55,4 @@ Pool bar, come here if you feel like chilling. There is also a gym! Hansar is al
   
 Overall, I loved my stay at Hansar but Bangkok has so much to offer in terms of boutique hotels. If it is not within your price range, check out other options like Airbnb.
 
-**Header image source:** [Hansar](https://www.hansarhotels.com/hotels/bangkok/gallery/)
+**Header image credit:** [Hansar](https://www.hansarhotels.com/hotels/bangkok/gallery/)

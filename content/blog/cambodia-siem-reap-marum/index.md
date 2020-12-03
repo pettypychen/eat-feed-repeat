@@ -7,8 +7,7 @@ thumbnail: ./marum-inside.jpg
 
 **Address:** #8A, B Phum Slor Kram Siem Reap, Cambodia  
 **Telephone:** +855 17363 284   
-**Opening Hours:** Daily  
-11:00AM- 10:30PM  
+**Opening Hours:** Daily 11:00AM- 10:30PM  
 **Recommendation:** ✩✩✩✩  
 **Cost:** $ (USD 4-8 per dish)
 
@@ -56,7 +55,5 @@ The eggplant dip was almost like an Asian guac and chips, extra spicy++. I think
 We recommend that you come early and sit in their best seats on their small balcony and drink the night away if you are on a romantic getaway. There was a couple chilling there/drinking wine while listening to the sound of the rain falling.
   
 They had the best smoothie I had in Cambodia. They have many options for smoothies and you must try them. I almost wanted to order a second one to go.
-
-![Picture](https://hola-yolo.weebly.com/uploads/4/8/2/0/48209285/img-1983_orig.jpg)
 
 We came on a weekday during a heavy storm, so not many patrons here yet. I'd recommend bringing some mosquito repellent if you are prone to being bitten.

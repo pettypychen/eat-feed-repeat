@@ -56,3 +56,5 @@ I read a lot of reviews on pocket diapers and seem like [BumGenius 5.0](https://
 A lot of moms rave about [Grovia O.N.E](https://amzn.to/2Eh09dZ) which was supposed to be the “one” diaper for all families. It has both snaps or hook & loop closure and its flexibility with additional soaker pad pairing makes it a good night-time diaper as well.
 
 I am super excited to receive these cute cloth diapers in the mail in the next couple of weeks!
+
+**Header image credit:** Unsplash - [Allec Gomes](https://unsplash.com/photos/ofRrymNhmvI)

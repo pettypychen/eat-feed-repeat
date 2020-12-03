@@ -41,4 +41,4 @@ We did not go to the Pot, A's cousin told us it was overrated. Try it out yourse
 
 BTW, do not stay at this awesome boutique hotel if you are light sleeper. People start to party downstairs from Thursday night onwards.
 
-**Header image source:** [The Line Hotel](https://www.thelinehotel.com/los-angeles/)
+**Header image credit:** [The Line Hotel](https://www.thelinehotel.com/los-angeles/)

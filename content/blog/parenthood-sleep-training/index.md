@@ -46,3 +46,5 @@ We have been doing pretty well with a 9:30 or 10 PM feed before she goes to slee
 ## What about CIO, no tears, Weissbluth, Ferber, chair, and pick-up-put-down method?
 
 None of these [methods](https://www.thebump.com/a/how-to-sleep-train) is scientifically proven to work. Most have anecdotal evidence so the quality supporting such methods is poor. It is like case series equivalent in the clinical research world.  You can try any that suits your parental style. Most peeps will take about one week to train their bebes, so don't get disheartened and try all the methods in one week. Persistence is key. It takes time for a baby to learn to sleep by himself or herself. 
+
+**Header image credit:** Unsplash - [Chuttersnap](https://unsplash.com/@chuttersnap)
