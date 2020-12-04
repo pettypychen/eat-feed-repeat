@@ -2,6 +2,7 @@
 title: Cloth Diapering 101 - Introduction
 date: "2019-08-23"
 thumbnail: ./allec-gomes-ofRrymNhmvI-unsplash.jpg
+tags: ["2019","Parenthood","Motherhood","Diaper","Baby","Cloth Diaper"]
 ---
 I read up a bunch on cloth diaperings before I started to buy my own stash but it was hard to come across a good article introducing the various options for cloth diapering.
 

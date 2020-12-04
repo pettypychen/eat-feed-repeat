@@ -2,6 +2,7 @@
 title: Night Rooster
 date: "2016-11-17"
 thumbnail: ./night-rooster.jpg
+tags: ["2016","Indonesia","Ubud","Travel","Food","Dinner","Drinks"]
 ---
 🇮🇩 **Ubud, Bali, Indonesia**
 

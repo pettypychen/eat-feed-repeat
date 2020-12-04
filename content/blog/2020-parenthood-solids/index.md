@@ -2,6 +2,7 @@
 title: Solids
 date: "2020-03-02"
 thumbnail: ./thought-catalog-9aOswReDKPo-unsplash.jpg
+tags: ["2020","Parenthood","Motherhood","Feeding","Baby"]
 ---
 ## How do You Know that Your Baby is Ready?
 

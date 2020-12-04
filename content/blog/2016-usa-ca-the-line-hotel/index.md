@@ -2,6 +2,7 @@
 title: The Line Hotel
 date: "2016-06-09"
 thumbnail: ./line.png
+tags: ["2016","USA","California","Lost Angeles","Travel","Hotel"]
 ---
 🇺🇸 **LA, California, USA**
 

@@ -2,6 +2,7 @@
 title: Malis
 date: "2016-11-03"
 thumbnail: ./malis.jpg
+tags: ["2016","Cambodia","Food","Travel"]
 ---
 🇰🇭 **Siem Reap, Cambodia**
 

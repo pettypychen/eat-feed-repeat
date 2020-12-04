@@ -2,6 +2,7 @@
 title: Sleeping with a Babe
 date: "2019-09-01"
 thumbnail: ./minnie-zhou-0hiUWSi7jvs-unsplash.jpg
+tags: ["2019","Parenthood","Motherhood","Sleep Training","Baby"]
 ---
 ## My thoughts on co-sleeping
 

@@ -17,20 +17,25 @@ function Bio() {
         const { author, social } = data.site.siteMetadata
         return (
           <section>
-            <Image
+            {/* <Image
               fixed={data.avatar.childImageSharp.fixed}
               alt={author}
               imgStyle={{
                 borderRadius: `50%`,
               }}
-            />
+            /> */}
+             <br></br>
+             <br></br>
+             <br></br>
+             <br></br>
             <p>
-              Written by <strong>{author}</strong> who lives and works in Singapore building useful things.
+              Written by <strong>{author}</strong> who lives and works in Singapore 🌴 building useful things. 👩🏻‍💻<br></br>
               {` `}
               <a href={`https://twitter.com/${social.twitter}`}>
-                You should follow her on Twitter
+                You should follow her on Twitter.
               </a>
             </p>
+            <br></br>
           </section>
         )
       }}

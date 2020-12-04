@@ -2,6 +2,7 @@
 title: What is in My Diaper Bag?
 date: "2020-02-23"
 thumbnail: ./olga-thelavart-RyrFRsVoe2Q-unsplash.jpg
+tags: ["2020","Parenthood","Motherhood","Baby"]
 ---
 ![](./diaper-bag.jpg)
 My diaper bag is perpetually packed. I like to pack light and bring only the essentials when I go outside with baby L. The rule of the thumb is that the diaper bag cannot be heavier than baby L. If it is heavier than my baby then  I will have a hard time carrying her while I wait for a taxi or when she is fussing while we take the public transport. 

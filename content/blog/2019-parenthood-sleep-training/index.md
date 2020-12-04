@@ -2,6 +2,7 @@
 title: Sleep Training
 date: "2019-09-02"
 thumbnail: ./chuttersnap-h3GIogY6LL4-unsplash.jpg
+tags: ["2019","Parenthood","Motherhood","Sleep Training","Baby"]
 ---
 It is a norm for new parentals to be sleep deficient and to look for ways to optimise such state. 
 

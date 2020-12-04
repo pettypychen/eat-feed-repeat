@@ -2,6 +2,7 @@
 title: Merah Putih
 date: "2016-11-19"
 thumbnail: ./merah-putih.jpg
+tags: ["2016","Indonesia","Seminyak","Travel","Food","Dinner","Drinks"]
 ---
 🇮🇩 **Seminyak, Bali, Indonesia**
 

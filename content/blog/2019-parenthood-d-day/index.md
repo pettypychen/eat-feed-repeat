@@ -2,6 +2,7 @@
 title: A Day in the Life of the Pregger - D-Day Edition
 date: "2019-06-22"
 thumbnail: ./sincerely-media-9s7EOmv2HDA-unsplash.jpg
+tags: ["2019","Parenthood","Motherhood","Delivery","Baby"]
 ---
 I have been scaling a human being for the past 9 months and I was ready to drop my single.
 

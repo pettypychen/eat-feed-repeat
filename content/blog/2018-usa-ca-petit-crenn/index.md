@@ -2,6 +2,7 @@
 title: Petit Crenn
 date: "2017-07-07"
 thumbnail: ./petit-crenn.jpg
+tags: ["2018","USA","California","San Francisco","Michelin Star","Dinner","Lunch"]
 ---
 🇺🇸 **SF, California, USA**
 

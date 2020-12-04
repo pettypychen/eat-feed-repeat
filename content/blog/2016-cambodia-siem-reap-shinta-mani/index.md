@@ -1,8 +1,8 @@
 ---
 title: Shinta Mani
 date: "2016-11-06"
-thumbnail: ./shinta-mani.jpg
-
+thumbnail: ./shinta-mani.jpg'
+tags: ["2016","Cambodia","Travel","Hotel"]
 ---
 🇰🇭 **Siem Reap, Cambodia**
 

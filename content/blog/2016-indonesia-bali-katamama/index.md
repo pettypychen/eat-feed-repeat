@@ -2,6 +2,7 @@
 title: Katamama
 date: "2016-11-18"
 thumbnail: ./katamama.jpg
+tags: ["2016","Indonesia","Seminyak","Travel","Hotel"]
 ---
 🇮🇩 **Seminyak, Bali, Indonesia**
 

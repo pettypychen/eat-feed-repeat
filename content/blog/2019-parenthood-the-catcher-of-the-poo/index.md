@@ -2,6 +2,7 @@
 title: The Catcher of the Poo
 date: "2019-09-24"
 thumbnail: ./visuals-Pd2hIHv95FY-unsplash.jpg
+tags: ["2019","Parenthood","Motherhood","Toilet Training","Baby"]
 ---
 Babies poo and that is the universal truth. But it is another level to catch poo and pee in mid-progression while minimising a mess in the surrounding.
 

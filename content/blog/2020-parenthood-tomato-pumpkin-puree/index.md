@@ -2,6 +2,7 @@
 title: Tomato and Pumpkin Pureé
 date: "2020-03-01"
 thumbnail: ./tijana-drndarski-RrF5wBMo9Xo-unsplash.jpg
+tags: ["2020","Parenthood","Motherhood","Feeding","Baby"]
 ---
 
 This is one of my favourite baby food meal for baby L. It is so easy to make and mess-free! You can add a soft-boiled egg if you want to make it more nutritious. Tomatoes are optional. 

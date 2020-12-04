@@ -2,6 +2,7 @@
 title: Lollipop
 date: "2019-11-29"
 thumbnail: ./jeff-frenette-rnLsZUWRnLA-unsplash.jpg
+tags: ["2019","Parenthood","Motherhood","Baby Tech","Baby"]
 ---
 No, not those ones you get from a candy shop. 
 

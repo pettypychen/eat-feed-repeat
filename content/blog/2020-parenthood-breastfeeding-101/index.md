@@ -2,6 +2,7 @@
 title: Breastfeeding 101
 date: "2019-09-24"
 thumbnail: ./dainis-graveris-UABzL_f5pRU-unsplash.jpg
+tags: ["2020","Parenthood","Motherhood","Breastfeeding","Pumping","Baby"]
 ---
 Breast milk is awesome because it has a cardiovascular protective effect for the mom (meaning less likely for mom's to get heart attacks from reducing the risk of getting high blood pressure, high cholesterols, and diabetes)... reduce breast cancer risk... and even lower the risk for babies to be overweight or have asthma. These are well known and well-established facts that have been studied from [BMJ](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2323059/). 
 

@@ -2,6 +2,7 @@
 title: Trisara
 date: "2016-06-04"
 thumbnail: ./trisara.png
+tags: ["2016","Thailand","Phuket","Travel","Hotel"]
 ---
 🇹🇭 **Phuket, Thailand**
 

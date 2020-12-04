@@ -2,6 +2,7 @@
 title: Giving up on Breastfeeding
 date: "2020-02-23"
 thumbnail: ./charles-deluvio-kxa2GSsEkqU-unsplash.jpg
+tags: ["2020","Parenthood","Motherhood","Breastfeeding","Pumping","Baby"]
 ---
 
 There are so many reasons why a mother would give up breastfeeding and I wish the healthcare provider would know that rather than pushing the duty of exclusive breastfeeding on the mother and guilt them when they don't. 

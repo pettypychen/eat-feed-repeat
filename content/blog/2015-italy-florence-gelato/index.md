@@ -2,6 +2,7 @@
 title: Gelato in Firenze
 date: "2015-02-28"
 thumbnail: ./spencer-davis-tvrMPtnb7rY-unsplash.jpg
+tags: ["2015","Italy","Dessert","Europe","Travel","Food"]
 ---
 🇮🇹 **Florence, Italy**
 

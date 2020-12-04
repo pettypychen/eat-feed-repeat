@@ -2,6 +2,7 @@
 title: Hansar
 date: "2017-02-17"
 thumbnail: ./hansar.jpg
+tags: ["2016","Thailand","Bangkok","Travel","Hotel"]
 ---
 🇹🇭 **Bangkok, Thailand**
 

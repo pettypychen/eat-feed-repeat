@@ -2,6 +2,7 @@
 title: Viroth villa
 date: "2016-11-03"
 thumbnail: ./viroth.jpg
+tags: ["2016","Cambodia","Travel","Hotel"]
 ---
 🇰🇭 **Siem Reap, Cambodia**
 

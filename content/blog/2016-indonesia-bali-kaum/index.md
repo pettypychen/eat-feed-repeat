@@ -2,6 +2,7 @@
 title: Kaum
 date: "2016-11-19"
 thumbnail: ./kaum.png
+tags: ["2016","Indonesia","Seminyak","Travel","Food","Dinner"]
 ---
 🇮🇩 **Seminyak, Bali, Indonesia**
 

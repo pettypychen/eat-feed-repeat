@@ -2,6 +2,7 @@
 title: Serene Midcentury Farm Cottage
 date: "2017-02-17"
 thumbnail: ./serene-midcentury.jpg
+tags: ["2017","USA","California","Sonoma","AirBnB","Travel"]
 ---
 🇺🇸 **Sonoma, California, USA**
 

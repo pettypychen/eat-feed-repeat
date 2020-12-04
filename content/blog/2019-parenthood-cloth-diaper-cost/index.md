@@ -2,6 +2,7 @@
 title: Cloth Diapering 101 - Cost
 date: "2019-08-24"
 thumbnail: ./omid-armin-8Nppe0yLmn8-unsplash.jpg
+tags: ["2019","Parenthood","Motherhood","Diaper","Baby","Cost of Raising a Kid"]
 ---
 My father always told me that he was wrapped in flour sacks that were thrown away by the U.S. military as a kid while running around the muddy rice fields, which have since been replaced by Taipei 101. I was, however, raised with disposable diapers because wealth was more abundant during the late 1980s. It is unfathomable to think that after three generations that I would convert back to cloth diapering. My father was skeptical that me, a mega germaphobe, will be willing to touch poo and pee. I was not certain that I would not be put off by the stinky poo, but I told him that I was determined to go green.
 

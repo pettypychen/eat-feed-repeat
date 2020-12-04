@@ -2,6 +2,7 @@
 title: Terra Cotta
 date: "2016-11-20"
 thumbnail: ./terra-cotta.jpg
+tags: ["2016","Indonesia","Ubud","Travel","Food","Lunch","Drinks"]
 ---
 🇮🇩 **Ubud, Bali, Indonesia**
 

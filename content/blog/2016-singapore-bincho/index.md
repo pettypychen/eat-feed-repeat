@@ -2,6 +2,7 @@
 title: Bincho
 date: "2016-06-18"
 thumbnail: ./bincho.jpg
+tags: ["2016","Singapore","Food","Lunch","Dinner","Drinks"]
 ---
 🇸🇬 **Tiong Bahru, Singapore**
 

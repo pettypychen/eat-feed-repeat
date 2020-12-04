@@ -2,6 +2,7 @@
 title: Merci Marcel
 date: "2018-01-25"
 thumbnail: ./merci-marcel.jpg
+tags: ["2018","Singapore","French Food","Snack","Dinner","Lunch"]
 ---
 🇸🇬 **Singapore**
 

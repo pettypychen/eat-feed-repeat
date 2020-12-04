@@ -2,6 +2,7 @@
 title: Alaya Resort
 date: "2016-11-19"
 thumbnail: ./alaya-pool.jpg
+tags: ["2016","Indonesia","Ubud","Travel","Hotel"]
 ---
 🇮🇩 **Ubud, Bali, Indonesia**
 

@@ -2,6 +2,7 @@
 title: The Science of Cloth Diaper Washing
 date: "2019-08-31"
 thumbnail: ./annie-spratt-5TfCI4nj6B4-unsplash.jpg
+tags: ["2019","Parenthood","Motherhood","Diaper","Baby","Cloth Diaper"]
 ---
 ![](./cd-washing.jpg)
 > **Type of laundry detergent:** Persil  

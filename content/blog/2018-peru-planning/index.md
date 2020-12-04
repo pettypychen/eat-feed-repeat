@@ -2,6 +2,7 @@
 title: Peru Trip Planning
 date: "2018-01-22"
 thumbnail: ./machu-picchu.jpg
+tags: ["2018","Peru","Trip Planning","Travel"]
 ---
 🇵🇪 **Peru**
 
