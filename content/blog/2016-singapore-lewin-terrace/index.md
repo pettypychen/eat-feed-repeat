@@ -2,6 +2,7 @@
 title: Lewin Terrace
 date: "2016-08-13"
 thumbnail: ./lewin.png
+tags: ["2016","Singapore","Cruisine: Modern Japanese","Dinner","Drinks"]
 ---
 🇸🇬 **Singapore**
 

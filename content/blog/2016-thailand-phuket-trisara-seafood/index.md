@@ -2,7 +2,7 @@
 title: Trisara Seafood
 date: "2016-06-15"
 thumbnail: ./trisara-sea.jpg
-tags: ["2016","Thailand","Travel","Dinner","Drinks"]
+tags: ["2016","Thailand, Phuket","Travel","Dinner","Drinks", "Cruisine: Thai"]
 ---
 🇹🇭 **Phuket, Thailand**
 

@@ -2,7 +2,7 @@
 title: Procacci Panini Tartufati
 date: "2015-02-28"
 thumbnail: ./giuseppe-mondi-gEUXp5iFYNw-unsplash.jpg
-tags: ["2015","Italy","Snack","Europe","Travel","Food"]
+tags: ["2015","Italy, Florence","Snack","Travel","Cruisine: Italian"]
 ---
 🇮🇹 **Florence, Italy**
 

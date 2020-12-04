@@ -2,7 +2,7 @@
 title: Catalunya
 date: "2015-03-02"
 thumbnail: ./catalunya.jpeg
-tags: ["2015","Singapore","Food"]
+tags: ["2015","Singapore","Cruisine: Spanish"]
 ---
 🇸🇬 **Singapore**
 

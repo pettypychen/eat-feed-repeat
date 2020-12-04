@@ -2,7 +2,7 @@
 title: The Service 1921
 date: "2017-10-23"
 thumbnail: ./the-service-1921.jpg
-tags: ["2017","Thailand","Chiang Mai","Travel","Food","Dinner","Drinks"]
+tags: ["2017","Thailand, Chiang Mai","Travel","Cruisine: Thai","Dinner","Drinks"]
 ---
 🇹🇭 **Chiang Mai, Thailand**
 

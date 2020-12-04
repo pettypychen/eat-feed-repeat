@@ -2,6 +2,7 @@
 title: Sardine
 date: "2016-11-19"
 thumbnail: ./sardine.jpg
+tags: ["2016","Indonesia, Bali, Seminyak","Travel","Cruisine: Balinese","Lunch","Drinks"]
 ---
 🇮🇩 **Seminyak, Bali, Indonesia**
 

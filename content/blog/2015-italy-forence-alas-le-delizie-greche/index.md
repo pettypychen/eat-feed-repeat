@@ -2,7 +2,7 @@
 title: Alas le Delizie Greche
 date: "2015-02-28"
 thumbnail: ./pita.jpg
-tags: ["2015","Italy","Lunch","Europe","Travel","Food"]
+tags: ["2015","Italy, Florence","Lunch","Travel","Cruisine: Greek"]
 ---
 🇮🇹 **Florence, Italy**
 

@@ -2,7 +2,7 @@
 title: Kilo
 date: "2016-11-19"
 thumbnail: ./kilo.jpg
-tags: ["2016","Indonesia","Seminyak","Travel","Food","Dinner"]
+tags: ["2016","Indonesia, Bali, Seminyak","Travel","Cruisine: Modern","Dinner"]
 ---
 🇮🇩 **Seminyak, Bali, Indonesia**
 

@@ -2,6 +2,7 @@
 title: Marum
 date: "2016-11-13"
 thumbnail: ./marum-inside.jpg
+tags: ["2016","Cambodia, Siem Reap","Cruisine: Khmer","Travel"]
 ---
 🇰🇭 **Siem Reap, Cambodia**
 

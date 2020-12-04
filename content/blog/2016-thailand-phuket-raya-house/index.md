@@ -2,7 +2,7 @@
 title: Raya House
 date: "2016-06-16"
 thumbnail: ./raya.jpg
-tags: ["2016","Thailand","Travel","Food","Lunch","Dinner"]
+tags: ["2016","Thailand, Phuket","Travel","Cruisine: Thai","Lunch","Dinner"]
 ---
 🇹🇭 **Phuket, Thailand**
 

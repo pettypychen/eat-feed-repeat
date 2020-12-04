@@ -2,7 +2,7 @@
 title: Plan Your Trip
 date: "2015-02-05"
 thumbnail: ./plan.jpg
-tags: ["2015","Trip planning","Travel"]
+tags: ["2015","Trip Planning","Travel"]
 ---
 
 We always plan our trips before we go. I am super OCD so whenever I travel I always use an excel sheet to help me manage meals, check-in/out details, and programs that I have to attend.

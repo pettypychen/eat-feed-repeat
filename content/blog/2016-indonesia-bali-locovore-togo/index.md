@@ -2,7 +2,7 @@
 title: Locovore To Go
 date: "2016-11-19"
 thumbnail: ./locovore-to-go.jpg
-tags: ["2016","Indonesia","Ubud","Travel","Food","Dinner","Lunch"]
+tags: ["2016","Indonesia-Bali-Ubud","Travel","Cruisine: Comfort Food","Dinner","Lunch"]
 ---
 🇮🇩 **Ubud, Bali, Indonesia**
 

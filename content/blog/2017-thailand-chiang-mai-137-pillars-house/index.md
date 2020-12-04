@@ -2,6 +2,7 @@
 title: 137 Pillars House
 date: "2017-10-19"
 thumbnail: ./137-pillars.jpg
+tags: ["2017","Thailand, Chiang Mai","Travel","Hotel"]
 ---
 🇹🇭 **Chiang Mai, Thailand**
 

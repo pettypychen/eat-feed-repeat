@@ -2,7 +2,7 @@
 title: Wine Train
 date: "2017-07-07"
 thumbnail: ./wine-train.jpg
-tags: ["2017","USA","California","Napa","Travel","Activity","Drinks"]
+tags: ["2017","USA, CA, Napa","Travel","Drinks"]
 ---
 🇺🇸 **Napa, California, USA**
 

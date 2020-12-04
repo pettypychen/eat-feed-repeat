@@ -2,7 +2,7 @@
 title: Wobbling Toddler
 date: "2020-06-10"
 thumbnail: ./monika-p-S56Oj59zUlM-unsplash.jpg
-tags: ["2020","Parenthood","Motherhood","Baby","Walking"]
+tags: ["2020","Parenthood","Motherhood","Baby","Baby Walking"]
 ---
 
 I had an argument with my father on the approach of teaching baby L walking. He believes every child should use a walker. I used a baby walker and I learned to walk before I turned 1. Baby L took her first step the week before she turned 1 but she was not walking yet. The grandparents were measuring my child with a yard stick and that yard stick was me. 

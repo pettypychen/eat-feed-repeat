@@ -3,7 +3,7 @@ title: Boutique della Pasta Fresca
 date: "2015-02-28"
 thumbnail: ./boutique-della-pasta-fresca.jpg
 description: Fresh pasta
-tags: ["2015","Italy","Lunch","Europe","Travel","Food"]
+tags: ["2015","Italy, Florence","Lunch","Travel","Cruisine: Italian"]
 ---
 🇮🇹 **Forence, Italy**
 

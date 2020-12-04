@@ -2,7 +2,7 @@
 title: Banh Mì 25
 date: "2017-04-10"
 thumbnail: ./banh-mi-25.jpg
-tags: ["2017","Vietnam","Hanoi","Snack","Travel","Lunch"]
+tags: ["2017","Vietnam, Hanoi","Snack","Travel","Lunch","Cruisine: Vietnamese"]
 ---
 🇻🇳 **Hanoi, Vietnam**
 
