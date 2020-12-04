@@ -6,13 +6,4 @@ module.exports = {
   prefix: '/',
   author: 'P Chen',
   twitter: '@pettypychen',
-  plugins: [
-    {
-      resolve: `gatsby-plugin-google-analytics`,
-      options: {
-        // The property ID; the tracking code won't be generated without it
-        trackingId: "G-YNJ90NJCP9R",
-      },
-    },
-  ],
 }
