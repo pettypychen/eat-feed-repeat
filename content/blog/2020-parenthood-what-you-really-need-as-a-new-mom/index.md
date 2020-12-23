@@ -16,7 +16,7 @@ I didn't mind forgoing gourmet coffee for months just so that I could get some q
 
 Newborns sleep a lot. They also cry a lot. They are fussy creatures that need extra amount of attention ALL THE TIME. Before you get the sticker shock, I get it... the Snoo is expensive! **$1,395 USD** is not something you just throw around for funsies but trust me the sleep is so worth it. I thought about getting the Finnish baby box for baby L's crib, but in the end I bit the bullet and bought a Snoo. I shipped it all the way from the US to Singapore because there was not a single supplier that would bring it over. 
 
-To my pregnancy-hormone fueled brain, I almost planned a trip to Australia just so I could haul a Snoo back. What dissuaded me was the possibility of paying for an oversize luggage which would have been enough for shipping from the U.S.A. In the end, I managed to offset shipping costs with 15% off from buying it through my Amazon baby registry. 
+Due to my pregnancy-hormone fueled brain, I almost planned a trip to Australia just so I could haul a Snoo back. What dissuaded me was the possibility of paying for an oversize luggage which would have been enough for shipping from the U.S.A. In the end, I managed to offset shipping costs with 15% off from buying it through my Amazon baby registry. 
 
 If you do a quick math, there are 180 days in 6 months and babies typically need to sleep about 15-16 hours a day = 2,880 hours. 
 $1395 / 2880 hours = 48 cents per hour, which is roughly $8 per day.
