@@ -14,22 +14,23 @@ Baby carriers are a must if you want to free your hands from a tiny huummann tha
 | Tula | $100-300 SGD | ⭐️⭐️⭐️ | ⭐️⭐️⭐️⭐️ | 💪💪💪💪💪 |
 | ErgoBaby | $150-200 SGD | ⭐️⭐️⭐️⭐️ | ⭐️⭐️⭐️⭐️ | 💪💪💪 |
 
-I was carried by my grandma on her back with a baby carrier that is like a long strip of silk. Most Asian countries have a tradition of babywearing. She had a purple and a yellow one that she would switch out daily. I would be on her back while she cooked for the entire family or boil water for baths. One of my fondest/earliest memories of my grandmother was her singing lullaby in Taiwanese while I gently sway from side to side on her back. She carried me all the way until I was about 2. 
+I was carried by my grandma on her back with a baby carrier that is like a long strip of silk. Most Asian countries have some form of babywearing tradition. She had a purple and a yellow cloth carrier that she would switch out daily. I would be on her back while she cooked for the entire family or boil water for baths. One of my fondest/earliest memories of my grandmother was her singing lullaby in Taiwanese while I gently sway from side to side on her back. She carried me all the way until I was about 2. 
 
 <img src="https://cf.shopee.tw/file/ff644358e0e09eeffa4a881c658fffdf" alt="traditional taiwanese baby carrier" width="800"/>  
 
-
+## Considerations Before You Buy
 Before you buy a baby carrier, you should talk to your partner about the patterns because at the end of the day it is a tool that both parents should feel comfortable wearing in the public. 
 
-Be cognizant of height differences between your partner and you and choose the carrier based on your situation. 
-I never thought I would get so many carriers so please don't get carried away by Black Friday Sales. #badpun
+Be cognizant of height differences between your partner and you so choose the carrier based on your situation. 
+I never thought I would get so many carriers so please don't get **carried** away by Black Friday Sales. #badpun
 
 ## Solly Baby
 [🛒](https://shop.sollybaby.com/)
 
-It is meant for a tiny bébé/ newborn. The only issue I had with this is that the fabric is lax so it is tiring for the back if you plan to carry the baby for > 45 minutes. Traditional Taiwanese baby carriers are made of soft/silky fabric that has higher ductility vs. the Solly Baby Wrap is stretchy so it becomes loose after a while then your body would try to overcompensate the baby's position because you don't want to wake the baby up. Not terribly ergonomics. 
+It is meant for a tiny bébé/ newborn. The only issue I had with this is that the fabric is lax and it becomes tiring for your back if you plan to carry the baby for > 45 minutes. Traditional Taiwanese baby carriers are made of soft/silky fabric that has higher ductility vs. the Solly Baby Wrap is stretchy so it comes loose after a while. Then your body would try to overcompensate the baby's position because you don't want to wake the baby up. Not really ergonomic for a carrier. 
 
-The wrap patterns are cute and you can color-coordinate your outfit with the wrap but for the price point of $65... I would want something much more comfortable for prolonging babywearing. Solly baby sells cute crib sheets so I would get those instead of the baby wrap. 
+The wrap patterns are cute and you can color-coordinate your outfit with the wrap but for the price point of $65... I would want something much more comfortable for prolonged babywearing. Solly baby sells cute crib sheets so I would get those instead of the baby wrap. 
+
 This is a picture of me carrying a teddy bear with the Solly Baby Wrap. 
 <img src="./sollybaby.jpeg" alt="solly baby wrap" width="400"/>
 
@@ -38,8 +39,8 @@ This is a picture of me carrying a teddy bear with the Solly Baby Wrap.
 
 Tula has a cult following for its baby carrier because it is comfortable for the wearer and there are many options to fit the kid. 
 * Tula Lite (Compact Carrier) (12-30lbs; 5.4-13kg): This is a new product that allows you to fold your carrier into a waist pouch and you can go about your day without carrying an additional item. Great for parents on the go and want to be minimalistic when you go on a day trip. 
-* Explore (6-in-1) (7-45lbs; 3-20kg): Explore is more expensive but highly versatile because you can carry the kid in 6 different positions. It supports both front carry and back carries so I love this carrier. Another great variation of Explore is the coast collection which has a large mesh panel in the middle of the carrier. It is perfect for Singapore's hot and humid weather. I got one when it was on sale but because of COVID... my brother has yet to bring it back to Asia with him. Right now we are using a Signature Explore in ombre color. It is cute, stylish, and my husband does not mind wearing it. Goal accomplished. 
-* Free-to-Grow (7-45lbs; 3-20kg): This supports a bigger weight range. If you want to save money as a parent, you should consider Explore and Free-to-Grow. It is a front-wearing style with the baby's face facing your face. I know baby L would not like that because baby L always wants to see what is going on so we did not consider this carrier. 
+* Explore (6-in-1) (7-45lbs; 3-20kg): Explore is more expensive but highly versatile because you can carry the kid in 6 different positions. It supports both front and back carrying so I love this carrier. Another great variation of Explore is the **coast collection** which has a large mesh panel in the middle of the carrier. It is perfect for Singapore's hot and humid weather. I got one when it was on sale but because of COVID... my brother has yet to bring it back to Asia with him. Right now we are using a Signature Explore in ombre color. It is cute, stylish, and my husband does not mind wearing it. Goal accomplished. 
+* Free-to-Grow (7-45lbs; 3-20kg): Like Explore, Free-to-Grow supports the same weight range. If you want to save money as a parent, you should consider Explore or Free-to-Grow. It is a front-wearing style with the baby's face facing your face. I know baby L would not like that because baby L always wants to see what is going on so we did not consider this carrier. Free-to-Grow is slighly more compact compare to Explore. 
 * Standard (15-45lbs; 6.8-20kg): Good for >18 months and older wearing or big babies in general. My kid is like average size so I did not bother with this. 
 * Toddler (25-60lbs; 11-27kg): I actually don't think kids need a carrier at this point but that is my own personal opinion. I would really hope kids that are like 11kg can walk already. 
 
