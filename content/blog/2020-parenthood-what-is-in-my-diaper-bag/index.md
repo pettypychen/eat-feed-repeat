@@ -10,7 +10,7 @@ My diaper bag is perpetually packed. I like to pack light and bring only the ess
 I have watched at least 6 hours worth of Youtube moms showing the content of their diaper bags. They seem to pack the baby's whole life in a bag, so I can confidently tell you that I am definitely not one of them. 
 
 ## The essentials
-* Diapers<
+* Diapers
 * Diaper mat 
 * Wet wipes (small packet)
 * Sunglasses for baby L
