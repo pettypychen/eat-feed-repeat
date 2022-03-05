@@ -2,7 +2,7 @@
 title: Baby Carrier
 date: "2021-01-12"
 thumbnail: ./siora-photography-SZF0wG5SXsU-unsplash.jpg
-tags: ["2020","Parenthood","Motherhood","Baby Carrier","Baby"]
+tags: ["2021","Parenthood","Motherhood","Baby Carrier","Baby"]
 ---
 
 Baby carriers are a must if you want to free your hands from a tiny huummann that can't possibly walk on his or her own. The question is what kind of baby barrier (cough...Freudian slip) shall you use? 
