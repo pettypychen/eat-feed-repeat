@@ -2,7 +2,7 @@
 title: Terrible twos
 date: "2022-02-04"
 thumbnail: ./ryan-franco-XECZHb6NoFo-unsplash.jpg
-tags: ["2020", "Parenthood", "Motherhood", "Baby Carrier", "Baby"]
+tags: ["2022", "Parenthood", "Motherhood", "Baby Carrier", "Baby"]
 ---
 
 It has been a while since I wrote about parenthood and I am sure people are curious what happened to me. I was pretty much MIA for the entire year until the Parents in Tech [podcast](https://www.parents.fm/episode/baby-tech-quality-time-and-asking-for-help-with-dr-petty-chen) in Jan.
