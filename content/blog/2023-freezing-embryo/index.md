@@ -37,14 +37,17 @@ Tech companies in Asia don't sponsor you to freeze your eggs but the cost of fre
 
 
 **Cost of freezing my eggs in the US**
+
 |  Line Item | Cost (SGD)    | Notes                                                        |
 |:----------:|---------|----------------------------------------------------------------|
 |  Treatment | $14.5K |     Includes monitoring, egg retrieval, anesthesia & other     |
 | Medication | $6.6K |   Will vary depending on how aggressive patient is stimulated  |
 |   Storage  |  $2.6K | Presume 5 years of storage, 1st year free, $500 per year after |
+
 **Source**: FertilityIQ
 
 **Cost of freezing my eggs in Taiwan**
+
 |  Line Item | Cost (SGD)  | Notes                                                       |
 |:----------:|-------------|-------------------------------------------------------------|
 |  Treatment |    $3K-4K   |    Includes monitoring, egg retrieval, anesthesia & other   |
